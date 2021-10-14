@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="BookChapters"/>
+        <group name="AllBookProjects"/>
+        <group name="Apress-2d-game-engine"/>
+        <group>
+            <file>file:/C:/Users/sebas/Desktop/code/CG/CGChapter08/8.7.ShadowShaders/public_html/src/Engine/Shadows/ShadowCaster.js</file>
+            <file>file:/C:/Users/sebas/Desktop/code/CG/CGChapter08/8.7.ShadowShaders/public_html/src/Engine/Material.js</file>
+            <file>file:/C:/Users/sebas/Desktop/code/CG/CGChapter08/8.7.ShadowShaders/public_html/src/Engine/Shadows/ShadowReceiver_Stencil.js</file>
+            <file>file:/C:/Users/sebas/Desktop/code/CG/CGChapter08/8.7.ShadowShaders/public_html/src/GLSLShaders/ShadowReceiverFS.glsl</file>
+            <file>file:/C:/Users/sebas/Desktop/code/CG/CGChapter08/8.7.ShadowShaders/public_html/src/Engine/Shadows/ShadowReceiver.js</file>
+            <file>file:/C:/Users/sebas/Desktop/code/CG/CGChapter08/8.7.ShadowShaders/public_html/src/Engine/Shaders/ShadowCasterShader.js</file>
+        </group>
+    </open-files>
+</project-private>
